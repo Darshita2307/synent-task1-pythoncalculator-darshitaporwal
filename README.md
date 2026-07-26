@@ -2,6 +2,8 @@
 
 A simple command-line calculator built using Python.
 
+<img width="1253" height="847" alt="image" src="https://github.com/user-attachments/assets/2a10363f-3df9-490a-8fac-a382add26583" />
+
 ## Features
 
 - Addition
